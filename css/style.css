@@ -64,7 +64,9 @@ background-position: center;
     /*Box-shadow: 4px 6px 3px gray;*/
 }
 
-
+.newNavColor{
+ color:white;   
+}
 
 .site-main .site-banner .site-title h3{
     padding-top: 5%;
